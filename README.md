@@ -1,3 +1,5 @@
+> **Archived:** This repo is preserved for historical purposes.
+
 This is a practice project created for learning purposes.
 
 ## Next.js App Router Course - Starter
